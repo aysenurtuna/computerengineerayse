@@ -209,6 +209,10 @@ line-height: 34px;
     .img-space{
         height: 220px;
     }
+    .anasayfa-img{
+    width: 90%;
+   
+}
 }
 #hakkimda{
     width:85%;
@@ -226,7 +230,7 @@ line-height: 34px;
     text-align: center;
 }
 .anasayfa-img{
-    width: 85%;
+    width: 80%;
     border-radius: 50px;
 }
 .anasayfa-ozet{
